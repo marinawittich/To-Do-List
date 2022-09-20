@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.c517286f.css",
+    "main.js": "/static/js/main.1bd3b57f.js",
+    "static/js/787.34d05ddd.chunk.js": "/static/js/787.34d05ddd.chunk.js",
+    "static/media/sandclock.jpeg": "/static/media/sandclock.608abe562a898312a51a.jpeg",
+    "index.html": "/index.html",
+    "main.c517286f.css.map": "/static/css/main.c517286f.css.map",
+    "main.1bd3b57f.js.map": "/static/js/main.1bd3b57f.js.map",
+    "787.34d05ddd.chunk.js.map": "/static/js/787.34d05ddd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c517286f.css",
+    "static/js/main.1bd3b57f.js"
+  ]
+}
