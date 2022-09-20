@@ -1,0 +1,72 @@
+body{
+  background: linear-gradient(#B1D7B4, #F7F6DC);
+  height: 100vh;
+  /* background-color: #B1D7B4; */
+}
+.crossed{
+  text-decoration: line-through 2px red;
+  background-color: antiquewhite;
+}
+.container{
+  display:flex;
+  justify-content: center;
+}
+.position-container{
+  width: 450px;
+  border: 1px solid black;
+  border-radius: 10px;
+  margin: 50px auto;
+  background-color: #F7F6DC;
+  height: 90vh;
+}
+.header{
+  font-size: 35px;
+  color: #7FB77E;
+  align-self: center;
+  padding: 30px;
+  font-family: 'Ubuntu', sans-serif;
+}
+.to-do-list{
+  color: #7FB77E;
+  font-size: 30px;
+  font-family: 'Ubuntu', sans-serif;
+
+}
+input{
+  font-size: 20px;
+  padding: 5px;
+  width: 90%;
+  font-family: 'Ubuntu', sans-serif;
+}
+.add, .delete{
+  width: 40%;
+  margin-top: 15px;
+  margin: 5px;
+  padding: 5px;
+  font-size: 15px;
+  color: white;
+  border: none;
+  font-family: 'Ubuntu', sans-serif;
+}
+.add{
+  
+  background-color: #7FB77E;
+}
+.delete{
+  background-color: #FF4A4A;
+}
+li{
+  font-family: 'Ubuntu', sans-serif;
+  width: 90%;
+  margin-top: 15px;
+  margin: 5px;
+  padding: 5px;
+  font-size: 15px;
+  border: 1px solid black;
+  border-radius: 5px;
+  background-color: rgb(211, 248, 235);
+}
+.image{
+  border-radius: 50%;
+  box-shadow: 5px 5px 15px 5px #B1D7B4;
+}
